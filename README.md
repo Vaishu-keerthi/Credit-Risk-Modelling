@@ -1,16 +1,4 @@
-### Instructor Information
 
-| Instructor name | Instructor LinkedIn profile | Instructor Github |
-|-----------------|-----------------------------|--------------------------|
-| Rohan Azad | [LinkedIn](https://www.linkedin.com/in/rohanazad/) | [Github](https://github.com/rohanazad) |
-
-### Course Link
-
-| Course Link | Language |
-|-------------|----------|
-| [Credit Risk Modeling using Machine Learning](https://campusx1040.graphy.com/courses/Credit-Risk-Modelling-using-Machine-Learning-660a2f9a4dbbcf4579e92edb) | Hinglish |
-
-**Note:** This is the free but quality course offered by CampusX.
 
 **Description:**
 
